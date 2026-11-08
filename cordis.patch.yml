@@ -1,0 +1,6 @@
+# dsh-prompt-enhancer：一个 Host 条目（提供 /prompt-enhancer/enhance 路由），
+# 客户端半由 package.json 的 dsh.client 交给 Web 构建/加载（不需要额外 patch 行）。
+- insert:
+    - id: prompt-enhancer
+      name: dsh-prompt-enhancer
+      config: {}

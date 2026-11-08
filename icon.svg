@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Prompt Enhancer">
+  <defs>
+    <linearGradient id="pe-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3b82f6"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="16" fill="url(#pe-bg)"/>
+  <path d="M29 11.5l4.1 11.2 11.2 4.1-11.2 4.1L29 42.1l-4.1-11.2-11.2-4.1 11.2-4.1L29 11.5z" fill="#ffffff"/>
+  <path d="M47 40l2 5.4 5.4 2-5.4 2-2 5.4-2-5.4-5.4-2 5.4-2 2-5.4z" fill="#ffffff" opacity="0.85"/>
+  <circle cx="44.5" cy="20" r="3.2" fill="#ffffff" opacity="0.7"/>
+</svg>
